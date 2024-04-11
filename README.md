@@ -44,7 +44,7 @@
 ```ruby
 platform :ios, '8.0'
 use_frameworks!
-pod 'swiftScan', :git => 'https://github.com/MxABC/swiftScan.git'
+pod 'swiftScan', :git => 'https://github.com/ZHK1024/swiftScan.git'
 ```
 
 
